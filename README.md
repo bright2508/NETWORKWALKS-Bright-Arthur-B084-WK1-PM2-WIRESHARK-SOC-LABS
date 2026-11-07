@@ -86,3 +86,12 @@ The environment provided a simulated Windows 11 desktop with Wireshark already i
 
 
 <img width="1262" height="747" alt="Image" src="https://github.com/user-attachments/assets/2610af78-e734-48b1-b08f-ceeb44c4d1dc" />
+
+
+**Exercise 2: Capturing Network Traffic**
+
+After entering the virtual environment using the provided login credentials, I launched Wireshark and selected the active Wi-Fi network interface.
+
+I started the packet capture process and observed the network traffic generated within the environment.
+
+This exercise introduced me to the process of collecting network packets and examining the communication taking place between connected systems.
