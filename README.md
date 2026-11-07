@@ -124,7 +124,7 @@ Indicators that could help distinguish suspicious traffic from normal communicat
 
 This exercise helped me understand how network analysts examine connection attempts and identify possible reconnaissance activities.
 
-** Exercise 4: Reconstructing TCP Communication**
+**Exercise 4: Reconstructing TCP Communication**
 
 I used Wireshark's Conversations feature to identify TCP communication involving port 5000.
 
