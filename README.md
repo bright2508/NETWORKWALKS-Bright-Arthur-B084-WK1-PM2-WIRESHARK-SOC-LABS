@@ -64,3 +64,15 @@ Understanding the security implications of unencrypted communication.
 
 Note: All activities were conducted for educational purposes within an authorized laboratory environment. Network captures were handled responsibly, with consideration for the confidentiality of sensitive information.
 
+## 4. Laboratory Environment and Configuration
+
+| **Component** | **Details** |
+|---|---|
+| Operating System | Windows 11 |
+| Packet Analysis Software | Wireshark |
+| Cybersecurity Training Platform | NetworkWalks |
+| Web Communication Protocols | HTTP, HTTPS |
+| Voice Communication Protocols | SIP, RTP |
+| Number of Laboratory Exercises | 6 |
+| Main Area of Focus | Network Traffic Analysis and Security Monitoring |
+
