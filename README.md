@@ -76,3 +76,10 @@ Note: All activities were conducted for educational purposes within an authorize
 | Number of Laboratory Exercises | 6 |
 | Main Area of Focus | Network Traffic Analysis and Security Monitoring |
 
+5. Practical Exercises and Investigation Process
+
+Exercise 1: Accessing the Wireshark Laboratory
+
+I began by accessing the Wireshark SOC laboratory through the NetworkWalks training platform.
+
+The environment provided a simulated Windows 11 desktop with Wireshark already installed, allowing me to perform packet capture and traffic analysis without configuring a separate physical laboratory.
