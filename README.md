@@ -83,3 +83,5 @@ Note: All activities were conducted for educational purposes within an authorize
 I began by accessing the Wireshark SOC laboratory through the NetworkWalks training platform.
 
 The environment provided a simulated Windows 11 desktop with Wireshark already installed, allowing me to perform packet capture and traffic analysis without configuring a separate physical laboratory.
+
+
