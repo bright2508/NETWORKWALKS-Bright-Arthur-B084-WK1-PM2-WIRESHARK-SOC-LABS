@@ -85,3 +85,4 @@ I began by accessing the Wireshark SOC laboratory through the NetworkWalks train
 The environment provided a simulated Windows 11 desktop with Wireshark already installed, allowing me to perform packet capture and traffic analysis without configuring a separate physical laboratory.
 
 
+<img width="1262" height="747" alt="Image" src="https://github.com/user-attachments/assets/2610af78-e734-48b1-b08f-ceeb44c4d1dc" />
