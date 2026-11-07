@@ -5,9 +5,9 @@ Inspecting and interpreting network traffic with Wireshark to detect suspicious 
 
 This project presents a collection of practical exercises focused on network traffic analysis and Security Operations Center (SOC) investigation using Wireshark.
 
-The activities involved capturing network packets, examining communication between devices, applying filters to isolate relevant traffic, and investigating different network activities. Through these exercises, I gained practical experience in understanding how network protocols operate, recognizing suspicious communication patterns, and identifying security risks associated with unprotected network traffic.
+The activities involved capturing network packets, examining device communication, applying filters to isolate relevant traffic, and investigating various network activities. Through these exercises, I gained practical experience in understanding how network protocols operate, recognizing suspicious communication patterns, and identifying security risks associated with unprotected network traffic.
 
-The project was carried out within the NetworkWalks cybersecurity training environment, using a simulated Windows 11 system with Wireshark installed.
+I carried out the project in the NetworkWalks cybersecurity training environment, using a simulated Windows 11 system with Wireshark installed.
 
 
  # 2. Project Objectives
@@ -37,3 +37,30 @@ Study internet-based voice communication by examining SIP signaling and RTP medi
 Follow and reconstruct network conversations to better understand the exchanged data.
 
 Develop awareness of how encryption helps maintain the privacy and security of information transmitted across networks.
+
+# 3. Purpose of the Laboratory
+
+The purpose of these exercises was to gain hands-on experience with network traffic monitoring and basic SOC investigation procedures.
+
+Wireshark was used to examine network communication, identify potentially suspicious activities, and understand how information moves between connected systems.
+
+The laboratory activities included:
+
+Capturing and examining network packets.
+
+Investigating suspicious IP addresses and connection attempts.
+
+Identifying possible port scanning activities.
+
+Reconstructing TCP communication using Follow TCP Stream.
+
+Examining HTTP requests, responses, and server information.
+
+Investigating credentials transmitted through unencrypted HTTP.
+
+Analyzing SIP signaling and RTP voice traffic.
+
+Understanding the security implications of unencrypted communication.
+
+Note: All activities were conducted for educational purposes within an authorized laboratory environment. Network captures were handled responsibly, with consideration for the confidentiality of sensitive information.
+
