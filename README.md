@@ -95,3 +95,5 @@ After entering the virtual environment using the provided login credentials, I l
 I started the packet capture process and observed the network traffic generated within the environment.
 
 This exercise introduced me to the process of collecting network packets and examining the communication taking place between connected systems.
+
+<img width="1270" height="750" alt="Image" src="https://github.com/user-attachments/assets/bd895afa-312a-4951-852e-49b1266768c5" />
